@@ -17,6 +17,7 @@
     Plugin 'tpope/vim-fugitive'
     Plugin 'ctrlpvim/ctrlp.vim'
     Plugin 'easymotion/vim-easymotion'
+    Plugin 'godlygeek/tabular'
     call vundle#end()               " required
     filetype plugin indent on       " required
 " }
